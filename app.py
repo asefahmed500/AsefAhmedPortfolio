@@ -34,7 +34,7 @@ def display_projects():
     # project1_image_url = ""
     # st.image(load_image(project1_image_url))
     st.write("""
-       Emotion Dectecion App . Live Link : https://asefahmed500-emotion-app--app-pz5jiu.streamlit.app/
+       Emotion Dectecion from text  . Live Link : https://asefahmed500-emotion-app--app-pz5jiu.streamlit.app/
     """)
     st.write("[GitHub Repository](https://github.com/asefahmed500/emotion-app-.git)")
     
@@ -43,7 +43,7 @@ def display_projects():
     # project2_image_url = "https://via.placeholder.com/300"
     # st.image(load_image(project2_image_url))
     st.write("""
-    An e-commerce website with a fully functional shopping cart and checkout process. Built with React and Redux.
+     Compareing Error mitigation Traditional Techniques with Machine Learing 
     """)
     st.write("[GitHub Repository](https://github.com/asefahmed500/Error-Mitigate-with-Blackwater-.git)")
     
